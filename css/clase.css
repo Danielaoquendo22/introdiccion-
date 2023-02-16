@@ -1,0 +1,26 @@
+body {
+    font: 10px; 
+    text-align: center;
+    background-color: #ffffff;
+    }
+   
+p{
+    font-size:12px;
+    color:#1616d6;
+    text-align:left;
+    }
+
+#id_Estilo{
+    font-style:italic;
+    font-size:20px;
+    border-bottom:1px #000000 dashed;
+    text-align:left;
+
+    }
+
+.color{
+    color:#FFFFFF;
+    font-size:15px;
+    background-color: #000000;
+    text-align:left;
+    }
